@@ -34,8 +34,8 @@ git clone git@github.com:skywalker-dell/vscode_ros2_template.git
 
 - 在`launch.json` 中指定要调试这个package下的哪个`executable` 
 
-  ![launch.json](/home/skywalker/Documents/my_repo/vscode_ros2_template/assets/2022-03-17_21-34.png) 
+  ![launch.json](./assets/2022-03-17_21-34.png) 
 
 - 打断点，愉快debug
 
-![debug](/home/skywalker/Documents/my_repo/vscode_ros2_template/assets/2022-03-17_21-37.png)
+![debug](./assets/2022-03-17_21-37.png)
