@@ -38,4 +38,4 @@ git clone git@github.com:skywalker-dell/vscode_ros2_template.git
 
 - 打断点，愉快debug
 
-![debug](./assets/2022-03-17_21-37.png)
+  ![debug](./assets/2022-03-17_21-37.png)
