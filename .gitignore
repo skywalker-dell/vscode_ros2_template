@@ -2,4 +2,6 @@ build/
 install/
 log/
 .cache/
-
+.idea
+cmake-build-*
+.ccls-cache
